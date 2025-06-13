@@ -129,7 +129,7 @@
     "href": "chapters/week8.html",
     "title": "9  FAIR, CARE, and Data Repositories",
     "section": "",
-    "text": "9.1 Goal\nConcurrent with the rise of big data over the past few decades has been the rise of specialist repositories curating particular kinds of big research data. This module posits these repositories as favorable sites for socializing the FAIR and CARE principles and offers examples of how they have been attempting to move toward alignment with those principles.",
+    "text": "9.1 Goal\nConcurrent with the rise of big data over the past few decades has been the rise of specialist repositories curating particular kinds of big research data. This module posits these repositories as favorable sites for socializing the FAIR and CARE principles and offers examples of how repositories have been attempting to move toward alignment with those principles.",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>FAIR, CARE, and Data Repositories</span>"
     ]
@@ -139,7 +139,7 @@
     "href": "chapters/week9.html",
     "title": "10  FAIR, CARE, and Open Science",
     "section": "",
-    "text": "10.1 Goal\nThe EOS RCN contends that alignment with FAIR and CARE is supportive of the movement for Open Science. This module explores the relationship between those data principles and the Open Science movement through two papers which consider how FAIR and CARE relate to each other and two papers which examine the meaning of Open Science for ecology and archaeology.",
+    "text": "10.1 Goal\nWe contend that alignment with FAIR and CARE is supportive of the movement for Open Science. This module explores the relationship between those data principles and the Open Science movement through two papers which consider how FAIR and CARE relate to each other and two papers which examine the meaning of Open Science for ecology and archaeology.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>FAIR, CARE, and Open Science</span>"
     ]
@@ -209,7 +209,7 @@
     "href": "chapters/week3.html#questions",
     "title": "4  Making Quaternary Data FAIR",
     "section": "4.3 Questions",
-    "text": "4.3 Questions\n\nHow have biodiversity scientists and archaeologists attempted to implement FAIR principles? What kinds of objects (e.g., individual datasets, databases, networks, etc.) have been the focus of their efforts?\nWhere have these scientists made the most progress? What are the biggest challenges that they face? Do they raise any concerns about Quaternary data that totally align with FAIR?",
+    "text": "4.3 Questions\n\nHow have biodiversity scientists and archaeologists attempted to implement FAIR principles? What kinds of objects (e.g., individual datasets, databases, networks, …) have been the focus of their efforts?\nWhere have these scientists made the most progress? What are the biggest challenges that they face? Do they raise any concerns about Quaternary data that totally align with FAIR?",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Making Quaternary Data FAIR</span>"
     ]
@@ -229,7 +229,7 @@
     "href": "chapters/week4.html#questions",
     "title": "5  Data and Power",
     "section": "5.3 Questions",
-    "text": "5.3 Questions\n\nWhat modes of seeing the world and what values are at stake in the creation of biodiversity databases?\nAccording to these readings, how does scientific theory affect the meaning of data?\nBoth of these papers suggest that historicizing data can enhance scientific practice as well as understanding of how science works. How might such histories prove helpful?",
+    "text": "5.3 Questions\n\nWhat modes of seeing the world and what values are at stake in the creation of biodiversity databases?\nHow does scientific theory affect the meaning of data?\nBoth of these papers suggest that historicizing data can enhance scientific practice as well as understanding of how science works. How might such histories prove helpful?",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Data and Power</span>"
     ]
@@ -249,7 +249,7 @@
     "href": "chapters/week5.html#questions",
     "title": "6  Colonial Data Legacies",
     "section": "6.3 Questions",
-    "text": "6.3 Questions\n\nHow are scientific data entangled in histories of settler colonialism and empire?\nThese readings collectively posit a relationship wherein both societal injustices influence the production of scientific knowledge, and scientific knowledge contributes to the perpetuation of those injustices? How exactly does this reciprocal relationship work, according to the readings?\nWhat ethical problems do these papers raise, and what solutions do they offer, if any?\nDo your own data bear the trace of colonial history or other injustices? How, if at all, have you attempted to repair the injustice which they reinscribe?",
+    "text": "6.3 Questions\n\nHow are scientific data entangled in histories of settler colonialism and empire?\nThese readings collectively posit a relationship wherein both societal injustices influence the production of scientific knowledge, and scientific knowledge contributes to the perpetuation of those injustices? How exactly does this reciprocal relationship work, according to the readings?\nWhat ethical problems do these papers raise, and what solutions do they offer, if any?\nDo your own data bear the trace of colonial history or other injustices? How, if at all, have you attempted to repair the injustice which they inscribe?",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Colonial Data Legacies</span>"
     ]
@@ -269,7 +269,7 @@
     "href": "chapters/week6.html#questions",
     "title": "7  Indigenous Data Sovereignty and the CARE Principles",
     "section": "7.3 Questions",
-    "text": "7.3 Questions\n\nHow do the authors of the CARE Principles recommend that scientists align with CARE? What are the low-hanging fruit of CARE, and what aspects of alignment seem more challenging? What sorts of objects might be considered as CARE-aligned (e.g., scientists, their data, data repositories, universities, etc.) ?\nWhat values do the principles enact? What seems to be most important for the authors?\nWhat kinds of science, and what kinds of data, do the authors of the CARE principles treat as paradigmatic? What becomes marginal in their vision of the world?",
+    "text": "7.3 Questions\n\nHow do the authors of the CARE Principles recommend that scientists align with CARE? What does CARE seem easy to implement, and what aspects of alignment seem more challenging? What sorts of objects might be considered as CARE-aligned (e.g., scientists, their data, data repositories, universities, etc.) ?\nWhat values do the principles enact? What seems to be most important for the authors?\nWhat kinds of science, and what kinds of data, do the authors of the CARE principles treat as paradigmatic? What becomes marginal in their vision of the world?",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Indigenous Data Sovereignty and the CARE Principles</span>"
     ]
@@ -289,7 +289,7 @@
     "href": "chapters/week7.html#questions",
     "title": "8  CAREful Quaternary Data Governance",
     "section": "8.3 Questions",
-    "text": "8.3 Questions\n\nHow have archaeologists and ecologists attempted to align with the CARE Principles? Where have they made the most progress? What are the biggest challenges?\nWhere in the data lifecycle is CARE being implemented? What kinds of objects or collectives are made to align with CARE?\nWhat tools are common to archaeological and ecological uptake of the principles? How do these two disciplinary communities differ in their implementation choices?",
+    "text": "8.3 Questions\n\nHow have archaeologists and ecologists attempted to align with the CARE Principles? Where have they made the most progress? What are the biggest challenges?\nWhere in the data lifecycle is CARE being implemented? What kinds of objects or collectives are made to align with CARE?\nWhat tools are common to archaeological and ecological uptake of the principles? How do these two disciplinary communities differ in their relationship to CARE?",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>CAREful Quaternary Data Governance</span>"
     ]
