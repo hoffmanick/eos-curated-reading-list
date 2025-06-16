@@ -47,340 +47,341 @@
   {
     "objectID": "chapters/references.html",
     "href": "chapters/references.html",
-    "title": "12  References",
+    "title": "References",
     "section": "",
     "text": "Bowker, G. C. (2000). Biodiversity datadiversity. Social studies of science, 30(5), 643-683.\nCarroll, S. R., Rodriguez-Lonebear, D., & Martinez, A. (2019). Indigenous data governance: strategies from United States native nations. Data science journal, 18, 31.\nCarroll, S. R., Hudson, M., Holbrook, J., Materechera, S., & Anderson, J. (2020). Working with the CARE principles: operationalizing Indigenous data governance. Ada Lovelace Institute, 9.\nCarroll, S. R., Herczog, E., Hudson, M., Russell, K., & Stall, S. (2021). Operationalizing the CARE and FAIR Principles for Indigenous data futures. Scientific data, 8(1), 108.\nDevictor, V., & Bensaude-Vincent, B. (2016). From ecological records to big data: the invention of global biodiversity. History and Philosophy of the Life Sciences, 38, 1-23.\nFaniel, I. M., Austin, A., Kansa, E., Kansa, S. W., France, P., Jacobs, J., … & Yakel, E. (2018). Beyond the archive: Bridging data creation and reuse in archaeology. Advances in Archaeological Practice, 6(2), 105-116.\nGupta, N., Martindale, A., Supernant, K., & Elvidge, M. (2023). The CARE principles and the reuse, sharing, and curation of indigenous data in Canadian archaeology. Advances in Archaeological Practice, 11(1), 76-89.\nHampton, S. E., Anderson, S. S., Bagby, S. C., Gries, C., Han, X., Hart, E. M., … & Zimmerman, N. (2015). The Tao of open science for ecology. Ecosphere, 6(7), 1-13.\nJacobsen, A., de Miranda Azevedo, R., Juty, N., Batista, D., Coles, S., Cornet, R., … & Schultes, E. (2020). FAIR principles: interpretations and implementation considerations. Data intelligence, 2(1-2), 10-29.\nJennings, L., Anderson, T., Martinez, A., Sterling, R., Chavez, D. D., Garba, I., … & Carroll, S. R. (2023). Applying the ‘CARE Principles for Indigenous Data Governance’ to ecology and biodiversity research. Nature Ecology & Evolution, 7(10), 1547-1551.\nJennings, L., Jones, K., Taitingfong, R., Martinez, A., David-Chavez, D., Alegado, R. … & Carroll, S. R. (2025). Governance of Indigenous data in open earth systems science. Nature Communications, 16(1), 572.\nLannom, L., Koureas, D., & Hardisty, A. R. (2020). FAIR data and services in biodiversity science and geoscience. Data Intelligence, 2(1-2), 122-130.\nLehnert, K., & Hsu, L. (2015). The new paradigm of data publication. Elements, 11, 368-369.\nLieberman & LeFebvre paper and survey\nMcCartney, A. M., Head, M. A., Tsosie, K. S., Sterner, B., Glass, J. R., Paez, S., … & Hudson, M. (2023). Indigenous peoples and local communities as partners in the sequencing of global eukaryotic biodiversity. npj Biodiversity, 2(1), 8.\nMarwick, B., Barton, C. M., Bates, L. A., Baxter, M., Bevan, A., Bollwerk, E. A., … & Wren, C. D. (2017). Open science in archaeology. SAA Archaeological Record, 17(4), 8-14.\nMichener, W. K., & Jones, M. B. (2012). Ecoinformatics: supporting ecology as a data-intensive science. Trends in ecology & evolution, 27(2), 85-93.\nMirowski, P. (2018). The future (s) of open science. Social studies of science, 48(2), 171-203.\nMonarrez, P. M., Zimmt, J. B., Clement, A. M., Gearty, W., Jacisin III, J. J., Jenkins, K. M., … & Thompson, C. M. (2022). Our past creates our present: a brief overview of racism and colonialism in Western paleontology. Paleobiology, 48(2), 173-185.\nNicholson, C., Kansa, S., Gupta, N., & Fernandez, R. (2023). Will It ever be FAIR?: Making archaeological data findable, accessible, interoperable, and reusable. Advances in Archaeological Practice, 11(1), 63-75.\nO’Brien, M., Duerr, R., Taitingfong, R., Martinez, A., Vera, L., Jennings, L. L., … & Buttigieg, P. L. (2024). Earth science data repositories: Implementing the CARE principles. Data Science Journal, 23.\nRadin, J. (2017). “Digital natives”: how medical and indigenous histories matter for big data. Osiris, 32(1), 43-64.\nRaja, N. B., Dunne, E. M., Matiwane, A., Khan, T. M., Natscher, P. S., Ghilardi, A. M., & Chattopadhyay, D. (2022). Colonial history and global economics distort our understanding of deep-time biodiversity. Nature ecology & evolution, 6(2), 145-154.\nReflections on the Ethical values of FAIR. FAIR Cookbook. https://faircookbook.elixir-europe.org/content/recipes/introduction/FAIRplus-values.html\nSterner, B., & Elliott, S. (2022). The FAIR and CARE data principles influence who counts as a participant in biodiversity science by governing the fitness-for-use of data.\nTallBear, K. (2007). Narratives of race and indigeneity in the Genographic Project. Journal of Law, Medicine & Ethics, 35(3), 412-424.\nThe BiodiFAIRse GO FAIR Implementation Network. GO FAIR. https://www.go-fair.org/wp-content/uploads/2019/02/Manifesto-for-IN-biodiFAIRse-1.pdf\nWilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., … & Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific data, 3(1), 1-9.",
     "crumbs": [
+      "Modules",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>References</span>"
     ]
   },
   {
     "objectID": "chapters/week1.html",
     "href": "chapters/week1.html",
-    "title": "2  Module 1: Quaternary Data Lifecycles",
+    "title": "Module 1: Quaternary Data Lifecycles",
     "section": "",
-    "text": "2.1 Goal\nIn recent decades, ecologists and archaeologists have come to theorize the role of data in their disciplines more self-consciously than they had previously. This module introduces these disciplinary understandings of the role that data play in Quaternary knowledge production and situates those data within a lifecycle framework.",
+    "text": "Goal\nIn recent decades, ecologists and archaeologists have come to theorize the role of data in their disciplines more self-consciously than they had previously. This module introduces these disciplinary understandings of the role that data play in Quaternary knowledge production and situates those data within a lifecycle framework.",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Module 1: Quaternary Data Lifecycles</span>"
     ]
   },
   {
     "objectID": "chapters/week2.html",
     "href": "chapters/week2.html",
-    "title": "3  Module 2: The FAIR Data Principles",
+    "title": "Module 2: The FAIR Data Principles",
     "section": "",
-    "text": "3.1 Goal\nIn order to better integrate an ever growing ecosystem of heterogeneous research data, a group of scientists authored a set of guidelines for producers of scientific data, the FAIR principles of scientific data management. This module introduces those FAIR principles and the values which they enact.",
+    "text": "Goal\nIn order to better integrate an ever growing ecosystem of heterogeneous research data, a group of scientists authored a set of guidelines for producers of scientific data, the FAIR principles of scientific data management. This module introduces those FAIR principles and the values which they enact.",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Module 2: The FAIR Data Principles</span>"
     ]
   },
   {
     "objectID": "chapters/week3.html",
     "href": "chapters/week3.html",
-    "title": "4  Module 3: Making Quaternary Data FAIR",
+    "title": "Module 3: Making Quaternary Data FAIR",
     "section": "",
-    "text": "4.1 Goal\nScholars of scientific data across many disciplines have engaged robustly with the project of FAIR data. This module surveys the response of Quaternary scientists to the FAIR principles.",
+    "text": "Goal\nScholars of scientific data across many disciplines have engaged robustly with the project of FAIR data. This module surveys the response of Quaternary scientists to the FAIR principles.",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Module 3: Making Quaternary Data FAIR</span>"
     ]
   },
   {
     "objectID": "chapters/week4.html",
     "href": "chapters/week4.html",
-    "title": "5  Module 4: Data and Power",
+    "title": "Module 4: Data and Power",
     "section": "",
-    "text": "5.1 Goal\nThe FAIR data principles offer no explicit theory of the relationship between knowledge and power. This module complicates the project of FAIR data by noticing the political economic conditions which have authorized that project and investigating how the technical articulation of data affects the meanings they embed.",
+    "text": "Goal\nThe FAIR data principles offer no explicit theory of the relationship between knowledge and power. This module complicates the project of FAIR data by noticing the political economic conditions which have authorized that project and investigating how the technical articulation of data affects the meanings they embed.",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Module 4: Data and Power</span>"
     ]
   },
   {
     "objectID": "chapters/week5.html",
     "href": "chapters/week5.html",
-    "title": "6  Module 5: Colonial Data Legacies",
+    "title": "Module 5: Colonial Data Legacies",
     "section": "",
-    "text": "6.1 Goal\nThe Western scientific tradition has developed in a world structured in part by colonial injustices. This module attends to the consequent influence of colonial power dynamics on the structure and use of research data and data repositories.",
+    "text": "Goal\nThe Western scientific tradition has developed in a world structured in part by colonial injustices. This module attends to the consequent influence of colonial power dynamics on the structure and use of research data and data repositories.",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Module 5: Colonial Data Legacies</span>"
     ]
   },
   {
     "objectID": "chapters/week6.html",
     "href": "chapters/week6.html",
-    "title": "7  Module 6: Indigenous Data Sovereignty and the CARE Principles",
+    "title": "Module 6: Indigenous Data Sovereignty and the CARE Principles",
     "section": "",
-    "text": "7.1 Goal\nThe CARE principles of Indigenous data governance were developed by a group of data scholars in order to remedy the harms against Indigenous peoples that scientific data sometimes enact. This module introduces the CARE principles as well as some examples of data governance by native nations.",
+    "text": "Goal\nThe CARE principles of Indigenous data governance were developed by a group of data scholars in order to remedy the harms against Indigenous peoples that scientific data sometimes enact. This module introduces the CARE principles as well as some examples of data governance by native nations.",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Module 6: Indigenous Data Sovereignty and the CARE Principles</span>"
     ]
   },
   {
     "objectID": "chapters/week7.html",
     "href": "chapters/week7.html",
-    "title": "8  Module 7: CAREful Quaternary Data Governance",
+    "title": "Module 7: CAREful Quaternary Data Governance",
     "section": "",
-    "text": "8.1 Goal\nMuch like the FAIR principles, the CARE principles have fostered vigorous discussion across many disciplines. This module surveys the uptake of CARE by Quaternary scientists.",
+    "text": "Goal\nMuch like the FAIR principles, the CARE principles have fostered vigorous discussion across many disciplines. This module surveys the uptake of CARE by Quaternary scientists.",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Module 7: CAREful Quaternary Data Governance</span>"
     ]
   },
   {
     "objectID": "chapters/week8.html",
     "href": "chapters/week8.html",
-    "title": "9  Module 8: FAIR, CARE, and Data Repositories",
+    "title": "Module 8: FAIR, CARE, and Data Repositories",
     "section": "",
-    "text": "9.1 Goal\nConcurrent with the rise of big data over the past few decades has been the rise of specialist repositories curating particular kinds of big research data. This module posits these repositories as favorable sites for socializing the FAIR and CARE principles and offers examples of how repositories have been attempting to move toward alignment with those principles.",
+    "text": "Goal\nConcurrent with the rise of big data over the past few decades has been the rise of specialist repositories curating particular kinds of big research data. This module posits these repositories as favorable sites for socializing the FAIR and CARE principles and offers examples of how repositories have been attempting to move toward alignment with those principles.",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Module 8: FAIR, CARE, and Data Repositories</span>"
     ]
   },
   {
     "objectID": "chapters/week9.html",
     "href": "chapters/week9.html",
-    "title": "10  Module 9: FAIR, CARE, and Open Science",
+    "title": "Module 9: FAIR, CARE, and Open Science",
     "section": "",
-    "text": "10.1 Goal\nWe contend that alignment with FAIR and CARE is supportive of the movement for Open Science. This module explores the relationship between those data principles and the Open Science movement through two papers which consider how FAIR and CARE relate to each other and two papers which examine the meaning of Open Science for ecology and archaeology.",
+    "text": "Goal\nWe contend that alignment with FAIR and CARE is supportive of the movement for Open Science. This module explores the relationship between those data principles and the Open Science movement through two papers which consider how FAIR and CARE relate to each other and two papers which examine the meaning of Open Science for ecology and archaeology.",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Module 9: FAIR, CARE, and Open Science</span>"
     ]
   },
   {
     "objectID": "chapters/week10.html",
     "href": "chapters/week10.html",
-    "title": "11  Module 10: Moving Forward to Ethical Open Science",
+    "title": "Module 10: Moving Forward to Ethical Open Science",
     "section": "",
-    "text": "11.1 Goal\nThe EOS RCN’s theory of change is that reflection leads leads to right action. This module promotes the alignment of your scientific practice with ethical open science by asking you to assess your own positionality with respect to FAIR and CARE.",
+    "text": "Goal\nThe EOS RCN’s theory of change is that reflection leads leads to right action. This module promotes the alignment of your scientific practice with ethical open science by asking you to assess your own positionality with respect to FAIR and CARE.",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Module 10: Moving Forward to Ethical Open Science</span>"
     ]
   },
   {
     "objectID": "chapters/week1.html#readings",
     "href": "chapters/week1.html#readings",
-    "title": "2  Module 1: Quaternary Data Lifecycles",
-    "section": "2.2 Readings",
-    "text": "2.2 Readings\n\nMichener & Jones, 2012: “Ecoinformatics: supporting ecology as a data-intensive science” - an exploration of the kinds of questions that a more data-driven ecology can pursue\nFaniel et al., 2018: “Beyond the Archive: Bridging Data Creation and Reuse in Archaeology” - a case study of data management practices in archaeology",
+    "title": "Module 1: Quaternary Data Lifecycles",
+    "section": "Readings",
+    "text": "Readings\n\nMichener & Jones, 2012: “Ecoinformatics: supporting ecology as a data-intensive science” - an exploration of the kinds of questions that a more data-driven ecology can pursue\nFaniel et al., 2018: “Beyond the Archive: Bridging Data Creation and Reuse in Archaeology” - a case study of data management practices in archaeology",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Module 1: Quaternary Data Lifecycles</span>"
     ]
   },
   {
     "objectID": "chapters/week1.html#questions",
     "href": "chapters/week1.html#questions",
-    "title": "2  Module 1: Quaternary Data Lifecycles",
-    "section": "2.3 Questions",
-    "text": "2.3 Questions\n\nWhat are data (as opposed to facts, theories, truth, etc.)? What role do they play in the production of ecological and archaeological knowledge?\nWhat is useful about theorizing a data lifecycle? What sorts of interventions does such a framework enable?\nWhat kinds of data do you produce, if any? Do the lifecycles described in this week’s readings accord with your understanding of your own data’s trajectories?\nDo you reuse data? What qualities of those data facilitate their use?\nDo either of these readings explicitly or implicitly embed ethical issues? What are they, and where in the data lifecycle do they show up?",
+    "title": "Module 1: Quaternary Data Lifecycles",
+    "section": "Questions",
+    "text": "Questions\n\nWhat are data (as opposed to facts, theories, truth, etc.)? What role do they play in the production of ecological and archaeological knowledge?\nWhat is useful about theorizing a data lifecycle? What sorts of interventions does such a framework enable?\nWhat kinds of data do you produce, if any? Do the lifecycles described in this week’s readings accord with your understanding of your own data’s trajectories?\nDo you reuse data? What qualities of those data facilitate their use?\nDo either of these readings explicitly or implicitly embed ethical issues? What are they, and where in the data lifecycle do they show up?",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Module 1: Quaternary Data Lifecycles</span>"
     ]
   },
   {
     "objectID": "chapters/week2.html#readings",
     "href": "chapters/week2.html#readings",
-    "title": "3  Module 2: The FAIR Data Principles",
-    "section": "3.2 Readings",
-    "text": "3.2 Readings\n\nWilkinson et al, 2016: “The FAIR Guiding Principles for scientific data management and stewardship” - the locus classicus introducing the FAIR principles\nFAIR Cookbook: “Reflections on the Ethical values of FAIR” - a short reflection on the values that FAIR enacts\nJacobsen et al., 2020: “FAIR Principles: Interpretations and Implementation Considerations” - a thorough exposition of the meaning of each subprinciple of FAIR as well as examples of attempts at implementation",
+    "title": "Module 2: The FAIR Data Principles",
+    "section": "Readings",
+    "text": "Readings\n\nWilkinson et al, 2016: “The FAIR Guiding Principles for scientific data management and stewardship” - the locus classicus introducing the FAIR principles\nFAIR Cookbook: “Reflections on the Ethical values of FAIR” - a short reflection on the values that FAIR enacts\nJacobsen et al., 2020: “FAIR Principles: Interpretations and Implementation Considerations” - a thorough exposition of the meaning of each subprinciple of FAIR as well as examples of attempts at implementation",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Module 2: The FAIR Data Principles</span>"
     ]
   },
   {
     "objectID": "chapters/week2.html#questions",
     "href": "chapters/week2.html#questions",
-    "title": "3  Module 2: The FAIR Data Principles",
-    "section": "3.3 Questions",
-    "text": "3.3 Questions\n\nHow do the authors of the FAIR principles recommend that data be formatted? What do they believe such formatting will achieve?\nWhat values do the FAIR principles enact? What values might they neglect?\nWhat kinds of actors and what kinds of data do the authors of the FAIR principles prioritize? Who becomes marginal in their vision of science?\nThink about your own data. How well or not do they align with the FAIR principles? What are the sources of any mismatch?",
+    "title": "Module 2: The FAIR Data Principles",
+    "section": "Questions",
+    "text": "Questions\n\nHow do the authors of the FAIR principles recommend that data be formatted? What do they believe such formatting will achieve?\nWhat values do the FAIR principles enact? What values might they neglect?\nWhat kinds of actors and what kinds of data do the authors of the FAIR principles prioritize? Who becomes marginal in their vision of science?\nThink about your own data. How well or not do they align with the FAIR principles? What are the sources of any mismatch?",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Module 2: The FAIR Data Principles</span>"
     ]
   },
   {
     "objectID": "chapters/week3.html#readings",
     "href": "chapters/week3.html#readings",
-    "title": "4  Module 3: Making Quaternary Data FAIR",
-    "section": "4.2 Readings",
-    "text": "4.2 Readings\n\nLannom et al., 2020: “FAIR Data and Services in Biodiversity Science and Geoscience” - an examination of how biodiversity specimen databases are attempting to implement FAIR\nNicholson et al., 2023: “Will It Ever Be FAIR? Making Archaeological Data Findable, Accessible, Interoperable, and Reusable” - an overview of the prospects for implementing FAIR (and CARE) practices in archaeology",
+    "title": "Module 3: Making Quaternary Data FAIR",
+    "section": "Readings",
+    "text": "Readings\n\nLannom et al., 2020: “FAIR Data and Services in Biodiversity Science and Geoscience” - an examination of how biodiversity specimen databases are attempting to implement FAIR\nNicholson et al., 2023: “Will It Ever Be FAIR? Making Archaeological Data Findable, Accessible, Interoperable, and Reusable” - an overview of the prospects for implementing FAIR (and CARE) practices in archaeology",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Module 3: Making Quaternary Data FAIR</span>"
     ]
   },
   {
     "objectID": "chapters/week3.html#questions",
     "href": "chapters/week3.html#questions",
-    "title": "4  Module 3: Making Quaternary Data FAIR",
-    "section": "4.3 Questions",
-    "text": "4.3 Questions\n\nHow have biodiversity scientists and archaeologists attempted to implement FAIR principles? What kinds of objects (e.g., individual datasets, databases, networks, …) have been the focus of their efforts?\nWhere have these scientists made the most progress? What are the biggest challenges that they face? Do they raise any concerns about Quaternary data that totally align with FAIR?",
+    "title": "Module 3: Making Quaternary Data FAIR",
+    "section": "Questions",
+    "text": "Questions\n\nHow have biodiversity scientists and archaeologists attempted to implement FAIR principles? What kinds of objects (e.g., individual datasets, databases, networks, …) have been the focus of their efforts?\nWhere have these scientists made the most progress? What are the biggest challenges that they face? Do they raise any concerns about Quaternary data that totally align with FAIR?",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Module 3: Making Quaternary Data FAIR</span>"
     ]
   },
   {
     "objectID": "chapters/week4.html#readings",
     "href": "chapters/week4.html#readings",
-    "title": "5  Module 4: Data and Power",
-    "section": "5.2 Readings",
-    "text": "5.2 Readings\n\nMirowski, 2018: “The Future(s) of Open Science” - a political economic critique of the movement for Open Science\nBowker, 2000: “Biodiversity Datadiversity” - a close look at how biodiversity databases navigate value conflicts\nDevictor & Bensaude-Vincent, 2016: “From ecological records to big data: the invention of global biodiversity” - an investigation into the effects that the compilation of ‘big biodiversity data’ has on the meaning of the data, with a focus on GBIF",
+    "title": "Module 4: Data and Power",
+    "section": "Readings",
+    "text": "Readings\n\nMirowski, 2018: “The Future(s) of Open Science” - a political economic critique of the movement for Open Science\nBowker, 2000: “Biodiversity Datadiversity” - a close look at how biodiversity databases navigate value conflicts\nDevictor & Bensaude-Vincent, 2016: “From ecological records to big data: the invention of global biodiversity” - an investigation into the effects that the compilation of ‘big biodiversity data’ has on the meaning of the data, with a focus on GBIF",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Module 4: Data and Power</span>"
     ]
   },
   {
     "objectID": "chapters/week4.html#questions",
     "href": "chapters/week4.html#questions",
-    "title": "5  Module 4: Data and Power",
-    "section": "5.3 Questions",
-    "text": "5.3 Questions\n\nWhat modes of seeing the world and what values are at stake in the creation of biodiversity databases?\nHow does scientific theory affect the meaning of data?\nBoth of these papers suggest that historicizing data can enhance scientific practice as well as understanding of how science works. How might such histories prove helpful?",
+    "title": "Module 4: Data and Power",
+    "section": "Questions",
+    "text": "Questions\n\nWhat modes of seeing the world and what values are at stake in the creation of biodiversity databases?\nHow does scientific theory affect the meaning of data?\nBoth of these papers suggest that historicizing data can enhance scientific practice as well as understanding of how science works. How might such histories prove helpful?",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Module 4: Data and Power</span>"
     ]
   },
   {
     "objectID": "chapters/week5.html#readings",
     "href": "chapters/week5.html#readings",
-    "title": "6  Module 5: Colonial Data Legacies",
-    "section": "6.2 Readings",
-    "text": "6.2 Readings\n\nRaja et al., 2021: “Colonial history and global economics distort our understanding of deep-time biodiversity” - an analysis of spatial biases resulting from parachute science in the Paleobiology Database\nMonarrez et al., 2021: “Our past creates our present: a brief overview of racism and colonialism in Western paleontology” - an overview of paleontology’s entanglement in colonial histories\nTallBear, 2007: “Narratives of race and indigeneity in the genographic project” - an analysis of the ways that a project to map human genomes embedded racialized understandings of indigeneity\nRadin, 2017: “‘Digital Natives’: How Medical and Indigenous Histories Matter for Big Data” - a history of medical data from the Gila River Indian Community which were later massively mobilized for the purpose of training machine-learning models",
+    "title": "Module 5: Colonial Data Legacies",
+    "section": "Readings",
+    "text": "Readings\n\nRaja et al., 2021: “Colonial history and global economics distort our understanding of deep-time biodiversity” - an analysis of spatial biases resulting from parachute science in the Paleobiology Database\nMonarrez et al., 2021: “Our past creates our present: a brief overview of racism and colonialism in Western paleontology” - an overview of paleontology’s entanglement in colonial histories\nTallBear, 2007: “Narratives of race and indigeneity in the genographic project” - an analysis of the ways that a project to map human genomes embedded racialized understandings of indigeneity\nRadin, 2017: “‘Digital Natives’: How Medical and Indigenous Histories Matter for Big Data” - a history of medical data from the Gila River Indian Community which were later massively mobilized for the purpose of training machine-learning models",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Module 5: Colonial Data Legacies</span>"
     ]
   },
   {
     "objectID": "chapters/week5.html#questions",
     "href": "chapters/week5.html#questions",
-    "title": "6  Module 5: Colonial Data Legacies",
-    "section": "6.3 Questions",
-    "text": "6.3 Questions\n\nHow are scientific data entangled in histories of settler colonialism and empire?\nThese readings collectively posit a relationship wherein both societal injustices influence the production of scientific knowledge, and scientific knowledge contributes to the perpetuation of those injustices? How exactly does this reciprocal relationship work, according to the readings?\nWhat ethical problems do these papers raise, and what solutions do they offer, if any?\nDo your own data bear the trace of colonial history or other injustices? How, if at all, have you attempted to repair the injustice which they inscribe?",
+    "title": "Module 5: Colonial Data Legacies",
+    "section": "Questions",
+    "text": "Questions\n\nHow are scientific data entangled in histories of settler colonialism and empire?\nThese readings collectively posit a relationship wherein both societal injustices influence the production of scientific knowledge, and scientific knowledge contributes to the perpetuation of those injustices? How exactly does this reciprocal relationship work, according to the readings?\nWhat ethical problems do these papers raise, and what solutions do they offer, if any?\nDo your own data bear the trace of colonial history or other injustices? How, if at all, have you attempted to repair the injustice which they inscribe?",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Module 5: Colonial Data Legacies</span>"
     ]
   },
   {
     "objectID": "chapters/week6.html#readings",
     "href": "chapters/week6.html#readings",
-    "title": "7  Module 6: Indigenous Data Sovereignty and the CARE Principles",
-    "section": "7.2 Readings",
-    "text": "7.2 Readings\n\nCarroll et al., 2019: “Indigenous Data Governance: Strategies from United States Native Nations” - an exploration of the meaning of Indigenous data governance as well as examples of its enactment from Native nations in the US\nCarroll et al., 2020: “The CARE Principles of Indigenous Data Governance” - the locus classicus introducing the CARE principles",
+    "title": "Module 6: Indigenous Data Sovereignty and the CARE Principles",
+    "section": "Readings",
+    "text": "Readings\n\nCarroll et al., 2019: “Indigenous Data Governance: Strategies from United States Native Nations” - an exploration of the meaning of Indigenous data governance as well as examples of its enactment from Native nations in the US\nCarroll et al., 2020: “The CARE Principles of Indigenous Data Governance” - the locus classicus introducing the CARE principles",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Module 6: Indigenous Data Sovereignty and the CARE Principles</span>"
     ]
   },
   {
     "objectID": "chapters/week6.html#questions",
     "href": "chapters/week6.html#questions",
-    "title": "7  Module 6: Indigenous Data Sovereignty and the CARE Principles",
-    "section": "7.3 Questions",
-    "text": "7.3 Questions\n\nHow do the authors of the CARE Principles recommend that scientists align with CARE? What does CARE seem easy to implement, and what aspects of alignment seem more challenging? What sorts of objects might be considered as CARE-aligned (e.g., scientists, their data, data repositories, universities, etc.) ?\nWhat values do the principles enact? What seems to be most important for the authors?\nWhat kinds of science, and what kinds of data, do the authors of the CARE principles treat as paradigmatic? What becomes marginal in their vision of the world?",
+    "title": "Module 6: Indigenous Data Sovereignty and the CARE Principles",
+    "section": "Questions",
+    "text": "Questions\n\nHow do the authors of the CARE Principles recommend that scientists align with CARE? What does CARE seem easy to implement, and what aspects of alignment seem more challenging? What sorts of objects might be considered as CARE-aligned (e.g., scientists, their data, data repositories, universities, etc.) ?\nWhat values do the principles enact? What seems to be most important for the authors?\nWhat kinds of science, and what kinds of data, do the authors of the CARE principles treat as paradigmatic? What becomes marginal in their vision of the world?",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Module 6: Indigenous Data Sovereignty and the CARE Principles</span>"
     ]
   },
   {
     "objectID": "chapters/week7.html#readings",
     "href": "chapters/week7.html#readings",
-    "title": "8  Module 7: CAREful Quaternary Data Governance",
-    "section": "8.2 Readings",
-    "text": "8.2 Readings\n\nGupta et al., 2023: “The CARE Principles and the Reuse, Sharing, and Curation of Indigenous Data in Canadian Archaeology” - an overview of the prospects for implementation of CARE in archaeology, with a focus on Canada\nJennings et al., 2023: “Applying the ‘CARE Principles for Indigenous Data Governance’ to ecology and biodiversity research” - examples from ecology and biodiversity science of CARE implementation\nMcCartney et al., 2023: “Indigenous peoples and local communities as partners in the sequencing of global eukaryotic biodiversity” - a framework to guide biodiversity researchers in sequencing life’s diversity consistent with the CARE principles",
+    "title": "Module 7: CAREful Quaternary Data Governance",
+    "section": "Readings",
+    "text": "Readings\n\nGupta et al., 2023: “The CARE Principles and the Reuse, Sharing, and Curation of Indigenous Data in Canadian Archaeology” - an overview of the prospects for implementation of CARE in archaeology, with a focus on Canada\nJennings et al., 2023: “Applying the ‘CARE Principles for Indigenous Data Governance’ to ecology and biodiversity research” - examples from ecology and biodiversity science of CARE implementation\nMcCartney et al., 2023: “Indigenous peoples and local communities as partners in the sequencing of global eukaryotic biodiversity” - a framework to guide biodiversity researchers in sequencing life’s diversity consistent with the CARE principles",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Module 7: CAREful Quaternary Data Governance</span>"
     ]
   },
   {
     "objectID": "chapters/week7.html#questions",
     "href": "chapters/week7.html#questions",
-    "title": "8  Module 7: CAREful Quaternary Data Governance",
-    "section": "8.3 Questions",
-    "text": "8.3 Questions\n\nHow have archaeologists and ecologists attempted to align with the CARE Principles? Where have they made the most progress? What are the biggest challenges?\nWhere in the data lifecycle is CARE being implemented? What kinds of objects or collectives are made to align with CARE?\nWhat tools are common to archaeological and ecological uptake of the principles? How do these two disciplinary communities differ in their relationship to CARE?",
+    "title": "Module 7: CAREful Quaternary Data Governance",
+    "section": "Questions",
+    "text": "Questions\n\nHow have archaeologists and ecologists attempted to align with the CARE Principles? Where have they made the most progress? What are the biggest challenges?\nWhere in the data lifecycle is CARE being implemented? What kinds of objects or collectives are made to align with CARE?\nWhat tools are common to archaeological and ecological uptake of the principles? How do these two disciplinary communities differ in their relationship to CARE?",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Module 7: CAREful Quaternary Data Governance</span>"
     ]
   },
   {
     "objectID": "chapters/week8.html#readings",
     "href": "chapters/week8.html#readings",
-    "title": "9  Module 8: FAIR, CARE, and Data Repositories",
-    "section": "9.2 Readings",
-    "text": "9.2 Readings\n\nLehnert & Hsu, 2015: “The New Paradigm of Data Publication” - a brief description of the beneficial roles played by specialist repositories in advancing disciplinary knowledge\nO’Brien et al., 2024: “Earth Science Data Repositories: Implementing the CARE Principles” - a framework for earth science repositories to follow in aligning with CARE\nJennings et al., 2025: “Governance of Indigenous data in open earth systems science” - a report on the process and outcome of aligning the NEON ecological network with CARE",
+    "title": "Module 8: FAIR, CARE, and Data Repositories",
+    "section": "Readings",
+    "text": "Readings\n\nLehnert & Hsu, 2015: “The New Paradigm of Data Publication” - a brief description of the beneficial roles played by specialist repositories in advancing disciplinary knowledge\nO’Brien et al., 2024: “Earth Science Data Repositories: Implementing the CARE Principles” - a framework for earth science repositories to follow in aligning with CARE\nJennings et al., 2025: “Governance of Indigenous data in open earth systems science” - a report on the process and outcome of aligning the NEON ecological network with CARE",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Module 8: FAIR, CARE, and Data Repositories</span>"
     ]
   },
   {
     "objectID": "chapters/week8.html#questions",
     "href": "chapters/week8.html#questions",
-    "title": "9  Module 8: FAIR, CARE, and Data Repositories",
-    "section": "9.3 Questions",
-    "text": "9.3 Questions\n\nWhat is the value of specialist repositories? What sorts of factors might influence one’s decision to contribute to a specialist repository as opposed to a generalist repository like Zenodo?\nHow have the repositories described in these readings attempted to implement CARE? Where have they made the most progress and what are the biggest challenges?\nWhat special affordancess does a repository have in diffusing data ethical norms, both within its own organizational structure and for the other entities (i.e., data uploaders and funders) with whom the repository interacts?",
+    "title": "Module 8: FAIR, CARE, and Data Repositories",
+    "section": "Questions",
+    "text": "Questions\n\nWhat is the value of specialist repositories? What sorts of factors might influence one’s decision to contribute to a specialist repository as opposed to a generalist repository like Zenodo?\nHow have the repositories described in these readings attempted to implement CARE? Where have they made the most progress and what are the biggest challenges?\nWhat special affordancess does a repository have in diffusing data ethical norms, both within its own organizational structure and for the other entities (i.e., data uploaders and funders) with whom the repository interacts?",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Module 8: FAIR, CARE, and Data Repositories</span>"
     ]
   },
   {
     "objectID": "chapters/week9.html#readings",
     "href": "chapters/week9.html#readings",
-    "title": "10  Module 9: FAIR, CARE, and Open Science",
-    "section": "10.2 Readings",
-    "text": "10.2 Readings\n\nCarroll et al., 2021: “Operationalizing the CARE and FAIR Principles for Indigenous data futures” - a statement from the theorists of CARE on their understanding of its relationship to FAIR\nSterner & Elliott, 2022: “The FAIR and CARE Data Principles Influence Who Counts As a Participant in Biodiversity Science by Governing teh Fitness-for-Use of Data” - a philosophical treatment of the ideal operation of biodiversity science from the point of view of the FAIR and CARE principles\nHampton et al., 2015: “The Tao of open science for ecology” - an exploration of the shifts in mindset that ecologists must accept in order to align with Open Science\nMarwick et al., 2017: “Open Science in Archaeology” - an argument for the adoption of Open Science practices in archaeology",
+    "title": "Module 9: FAIR, CARE, and Open Science",
+    "section": "Readings",
+    "text": "Readings\n\nCarroll et al., 2021: “Operationalizing the CARE and FAIR Principles for Indigenous data futures” - a statement from the theorists of CARE on their understanding of its relationship to FAIR\nSterner & Elliott, 2022: “The FAIR and CARE Data Principles Influence Who Counts As a Participant in Biodiversity Science by Governing teh Fitness-for-Use of Data” - a philosophical treatment of the ideal operation of biodiversity science from the point of view of the FAIR and CARE principles\nHampton et al., 2015: “The Tao of open science for ecology” - an exploration of the shifts in mindset that ecologists must accept in order to align with Open Science\nMarwick et al., 2017: “Open Science in Archaeology” - an argument for the adoption of Open Science practices in archaeology",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Module 9: FAIR, CARE, and Open Science</span>"
     ]
   },
   {
     "objectID": "chapters/week9.html#questions",
     "href": "chapters/week9.html#questions",
-    "title": "10  Module 9: FAIR, CARE, and Open Science",
-    "section": "10.3 Questions",
-    "text": "10.3 Questions\n\nHow do the FAIR and CARE principles relate to each other? Where are they complementary to each other? Are there any points of tension between them?\nHow do Hampton et al. (2015) and Marwick et al. (2017) describe Open Science? What is valuable about it? How are archaeologists and ecologists supposed to move toward Open Science within their disciplines?\nNeither Hampton et al. (2015) nor Marwick et al. (2017) explicitly mention the FAIR or CARE principles, yet we posit that there is a relationship between those principles and Open Science which should be recognized. How might FAIR and CARE be supportive of the mission of Open Science?",
+    "title": "Module 9: FAIR, CARE, and Open Science",
+    "section": "Questions",
+    "text": "Questions\n\nHow do the FAIR and CARE principles relate to each other? Where are they complementary to each other? Are there any points of tension between them?\nHow do Hampton et al. (2015) and Marwick et al. (2017) describe Open Science? What is valuable about it? How are archaeologists and ecologists supposed to move toward Open Science within their disciplines?\nNeither Hampton et al. (2015) nor Marwick et al. (2017) explicitly mention the FAIR or CARE principles, yet we posit that there is a relationship between those principles and Open Science which should be recognized. How might FAIR and CARE be supportive of the mission of Open Science?",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Module 9: FAIR, CARE, and Open Science</span>"
     ]
   },
   {
     "objectID": "chapters/week10.html#readings",
     "href": "chapters/week10.html#readings",
-    "title": "11  Module 10: Moving Forward to Ethical Open Science",
-    "section": "11.2 Readings",
-    "text": "11.2 Readings\n\nLeFebvre & Lieberman, 2025: “Practitioner & Organizational Reflection regarding EOS, FAIR, & CARE” - a survey to guide reflection on the ways that one’s scientific practice aligns or is in tension with FAIR, CARE, and ethical open science\nLeigh and Michelle forthcoming paper",
+    "title": "Module 10: Moving Forward to Ethical Open Science",
+    "section": "Readings",
+    "text": "Readings\n\nLeFebvre & Lieberman, 2025: “Practitioner & Organizational Reflection regarding EOS, FAIR, & CARE” - a survey to guide reflection on the ways that one’s scientific practice aligns or is in tension with FAIR, CARE, and ethical open science\nLeigh and Michelle forthcoming paper",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Module 10: Moving Forward to Ethical Open Science</span>"
     ]
   },
   {
     "objectID": "chapters/week10.html#questions",
     "href": "chapters/week10.html#questions",
-    "title": "11  Module 10: Moving Forward to Ethical Open Science",
-    "section": "11.3 Questions",
-    "text": "11.3 Questions\n\nWhen you went through the reflection, did you find that you felt more comfortable thinking about either FAIR or CARE? If there is discomfort, is it productive of future growth of some sort?\nFrom the reflection: are there ethical concerns important to you outside the scope of the FAIR and the CARE principles?",
+    "title": "Module 10: Moving Forward to Ethical Open Science",
+    "section": "Questions",
+    "text": "Questions\n\nWhen you went through the reflection, did you find that you felt more comfortable thinking about either FAIR or CARE? If there is discomfort, is it productive of future growth of some sort?\nFrom the reflection: are there ethical concerns important to you outside the scope of the FAIR and the CARE principles?",
     "crumbs": [
-      "Readings",
+      "Modules",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Module 10: Moving Forward to Ethical Open Science</span>"
     ]
   },
